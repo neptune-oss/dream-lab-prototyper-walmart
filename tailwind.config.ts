@@ -61,6 +61,13 @@ export default {
 					'accent-foreground': 'hsl(var(--sidebar-accent-foreground))',
 					border: 'hsl(var(--sidebar-border))',
 					ring: 'hsl(var(--sidebar-ring))'
+				},
+				// Walmart-specific colors
+				'walmart-blue': 'hsl(var(--walmart-blue))',
+				'walmart-yellow': 'hsl(var(--walmart-yellow))',
+				'dream-lab': {
+					bg: 'hsl(var(--dream-lab-bg))',
+					accent: 'hsl(var(--dream-lab-accent))'
 				}
 			},
 			borderRadius: {

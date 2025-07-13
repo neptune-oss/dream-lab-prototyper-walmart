@@ -16,14 +16,14 @@ const featuredProducts = [
     price: 397.00,
     originalPrice: 497.00,
     image: "https://images.unsplash.com/photo-1593784991095-a205069470b6?w=400&h=400&fit=crop",
-    rating: 4.3,
+    rating: 4.3,     
     reviews: 1205
   },
   {
     id: 3,
     name: "Athletic Works Women's Active Leggings",
     price: 7.98,
-    image: "https://images.unsplash.com/photo-1506629905687-22b3b622b9e3?w=400&h=400&fit=crop",
+    image: "https://unsplash.com/photos/a-person-swimming-in-the-ocean-with-a-camera-NhWxAIs61MM",
     rating: 4.2,
     reviews: 567
   },
